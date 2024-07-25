@@ -33,6 +33,9 @@ LiveDocs is a Next.js web application designed to emulate Google Docs, featuring
 
 and many more, including code architecture and reusability 
 
+## Check out the live site 
+https://live-docs-word-processor.vercel.app/sign-in
+
 ## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
